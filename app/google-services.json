@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854258021126",
+    "project_id": "shanellehayeandroidapp",
+    "storage_bucket": "shanellehayeandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854258021126:android:17315ff787b6f46ff7e487",
+        "android_client_info": {
+          "package_name": "com.example.shanellehayeandroidapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7if30ru40bqu1N8vymUfDNfVwcLXhm6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
